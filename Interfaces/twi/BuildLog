@@ -1,0 +1,73 @@
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(83) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(99) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(103) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(104) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(116) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(120) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(122) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(125) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+twi_hw_master.c 
+Error while running C/C++ Compiler
+twi_hw_master.c 
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(85) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(101) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(105) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(106) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(118) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(122) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(124) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(127) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(85) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(101) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(105) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(106) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(118) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(122) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(124) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(127) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(90) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(106) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(110) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(111) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(123) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(127) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(129) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(132) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+Error while running C/C++ Compiler
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(90) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(106) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(110) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(111) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(123) : Error[Pe020]: identifier "oneShotModeSet" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(127) : Error[Pe020]: identifier "i2cWriteBuff" is undefined
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(129) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(132) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(92) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(112) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(131) : Error[Pe223]: function "I2C_DataWrite" declared implicitly
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\main.c(134) : Error[Pe223]: function "I2C_DataRead" declared implicitly
+Error while running C/C++ Compiler
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\pca10040\iar\Interfaces\twi\twi_hw_master.c(337) : Error[Pe036]: the #if for this directive is missing
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\pca10040\iar\Interfaces\twi\twi_hw_master.c(340) : Error[Pe037]: the #endif for this directive is missing
+Error while running C/C++ Compiler
+twi_hw_master.c 
+twi_hw_master.c 
+Error while running C/C++ Compiler
+twi_hw_master.c 
+twi_hw_master.c 
+C:\Users\nvkul\NRF\nRF5_SDK_11\examples\peripheral\blinky_freertos\pca10040\iar\Interfaces\twi\TMP103Defines.h(22) : Error[Pe020]: identifier "SemaphoreHandle_t" is undefined
+twi_hw_master.c 
